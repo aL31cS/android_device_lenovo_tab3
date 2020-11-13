@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo full_tab3-userdebug
+add_lunch_combo lineage_tab3-userdebug
