@@ -22,3 +22,4 @@ TARGET_ARCH_VARIANT := armv8-a
 TARGET_CPU_ABI := arm64-v8a
 TARGET_CPU_ABI2 := arm64-v8
 TARGET_CPU_VARIANT := cortex-a53
+TARGET_KERNEL_CONFIG := lcsh8735m_6_co_defconfig 
